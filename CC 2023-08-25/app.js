@@ -15,7 +15,7 @@ function reverseArray(num){
     //make number a string and split
     return String(num).split('').reverse().map(Number)
     //reverse array
-    
+
     //make array integers again and return
 }
 
